@@ -16,7 +16,7 @@ Download this repository as a ZIP file (see Download options above) and unzip to
 
 #### Set up PostgreSQL
 
-Install [PostgreSQL](https://www.postgresql.org) with [PostGIS](http://postgis.net/windows_downloads/) functionality. I recommend following [this tutorial](www.bostongis.com/PrinterFriendly.aspx?content_name=postgis_tut01).
+Install [PostgreSQL](https://www.postgresql.org) with [PostGIS](http://postgis.net/windows_downloads/) functionality. I recommend following [this tutorial](http://www.bostongis.com/PrinterFriendly.aspx?content_name=postgis_tut01).
 
 Make note of the password you set for the admin (`postgres`) account.
 
